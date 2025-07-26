@@ -9,4 +9,4 @@
 
 
 ## Statistic Information about FinED-Bench
-<img width="935" height="1877" alt="rate" src="https://github.com/user-attachments/assets/492d768f-b2f8-4678-9bfb-da279741a8eb" />
+<img width="400" height="400" alt="rate" src="https://github.com/user-attachments/assets/492d768f-b2f8-4678-9bfb-da279741a8eb" />
